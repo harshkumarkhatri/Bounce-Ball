@@ -86,6 +86,12 @@ lib/
 - dispose logic (if any)
 ```
 
+### Coverage
+<img width="1440" alt="coverage" src="https://user-images.githubusercontent.com/42743629/233311095-122326aa-a89a-4928-bf0c-aeb68298679a.png">
+
+### Example
+https://user-images.githubusercontent.com/42743629/233310335-f7bf0a5c-575b-431f-8c3c-458a95ae31c5.mp4
+
 #### TODO
 * Spring curve animation
 
